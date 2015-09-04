@@ -1,7 +1,7 @@
 # html-form-parser
 php class that parses an html form and displays an array of all the labels and form fields.
 
-** Usage
+## Usage
 ```
 include_once('class.parse.php');
 $parse = new ParseHtml();
